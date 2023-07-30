@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-30T16:44:26Z" name="Default suite" finished-at="2023-07-30T16:44:30Z" duration-ms="4050">
+    <groups>
+    </groups>
+    <test started-at="2023-07-30T16:44:26Z" name="Default test" finished-at="2023-07-30T16:44:30Z" duration-ms="4050">
+      <class name="com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:26Z" name="setup" finished-at="2023-07-30T16:44:27Z" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testApiCall()[pri:1, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:27Z" name="testApiCall" finished-at="2023-07-30T16:44:27Z" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApiCall -->
+        <test-method signature="testCreateIssue()[pri:2, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:27Z" name="testCreateIssue" finished-at="2023-07-30T16:44:28Z" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateIssue -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:27Z" name="setup" finished-at="2023-07-30T16:44:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:28Z" name="setup" finished-at="2023-07-30T16:44:28Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="extractIssueId(org.testng.ITestContext)[pri:3, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:28Z" name="extractIssueId" finished-at="2023-07-30T16:44:29Z" duration-ms="953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@65e0b505]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractIssueId -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:29Z" name="setup" finished-at="2023-07-30T16:44:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGetIssueId(org.testng.ITestContext)[pri:4, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:29Z" name="testGetIssueId" finished-at="2023-07-30T16:44:29Z" duration-ms="346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@65e0b505]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetIssueId -->
+        <test-method signature="testEditIssue(org.testng.ITestContext)[pri:5, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:29Z" name="testEditIssue" finished-at="2023-07-30T16:44:30Z" duration-ms="438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@65e0b505]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEditIssue -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:29Z" name="setup" finished-at="2023-07-30T16:44:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:30Z" name="setup" finished-at="2023-07-30T16:44:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testDeleteIssue(org.testng.ITestContext)[pri:6, instance:com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest@5965be2d]" started-at="2023-07-30T16:44:30Z" name="testDeleteIssue" finished-at="2023-07-30T16:44:30Z" duration-ms="591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@65e0b505]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteIssue -->
+      </class> <!-- com.apiautomation.LearningAPI.tests.CreateIssueMetaDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
